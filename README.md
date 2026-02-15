@@ -393,15 +393,6 @@ Create dimming effect
 - Unstable state: Output HIGH for calculated time
 - Returns: Back to LOW after timeout
 
-## 🎥 Demo & Documentation
-
-### Photos to Add
-- Breadboard prototype
-- PCB version
-- Touch plate options
-- Testing procedure
-- Final enclosure
-
 
 ## 🔬 Experiment Ideas
 
